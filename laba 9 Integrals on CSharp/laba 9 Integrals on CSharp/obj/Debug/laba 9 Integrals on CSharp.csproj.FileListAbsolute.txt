@@ -1,0 +1,9 @@
+D:\Артём\VISUAL STUDIA PROJECTS\laba 9 Integrals on CSharp\laba 9 Integrals on CSharp\bin\Debug\laba 9 Integrals on CSharp.exe
+D:\Артём\VISUAL STUDIA PROJECTS\laba 9 Integrals on CSharp\laba 9 Integrals on CSharp\bin\Debug\laba 9 Integrals on CSharp.pdb
+D:\Артём\VISUAL STUDIA PROJECTS\laba 9 Integrals on CSharp\laba 9 Integrals on CSharp\obj\Debug\laba 9 Integrals on CSharp.csprojResolveAssemblyReference.cache
+D:\Артём\VISUAL STUDIA PROJECTS\laba 9 Integrals on CSharp\laba 9 Integrals on CSharp\obj\Debug\laba_9_Integrals_on_CSharp.Form1.resources
+D:\Артём\VISUAL STUDIA PROJECTS\laba 9 Integrals on CSharp\laba 9 Integrals on CSharp\obj\Debug\laba_9_Integrals_on_CSharp.Properties.Resources.resources
+D:\Артём\VISUAL STUDIA PROJECTS\laba 9 Integrals on CSharp\laba 9 Integrals on CSharp\obj\Debug\laba 9 Integrals on CSharp.csproj.GenerateResource.Cache
+D:\Артём\VISUAL STUDIA PROJECTS\laba 9 Integrals on CSharp\laba 9 Integrals on CSharp\obj\Debug\laba 9 Integrals on CSharp.csproj.CoreCompileInputs.cache
+D:\Артём\VISUAL STUDIA PROJECTS\laba 9 Integrals on CSharp\laba 9 Integrals on CSharp\obj\Debug\laba 9 Integrals on CSharp.exe
+D:\Артём\VISUAL STUDIA PROJECTS\laba 9 Integrals on CSharp\laba 9 Integrals on CSharp\obj\Debug\laba 9 Integrals on CSharp.pdb
