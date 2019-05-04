@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\артём\visual studia projects\bidirectional list\bidirectional list\source.cpp(60): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  d:\артём\visual studia projects\bidirectional list\bidirectional list\source.cpp(77): note: выполняется компиляция ссылки на экземпляр шаблон функции "MyType inputNumber<int>(std::string &)"
+          with
+          [
+              MyType=int
+          ]
+  Bidirectional List.vcxproj -> D:\Артём\VISUAL STUDIA PROJECTS\Bidirectional List\Debug\Bidirectional List.exe
+  Bidirectional List.vcxproj -> D:\Артём\VISUAL STUDIA PROJECTS\Bidirectional List\Debug\Bidirectional List.pdb (Partial PDB)

@@ -1,0 +1,9 @@
+D:\Артём\VISUAL STUDIA PROJECTS\Reverse Poland entry\Reverse Poland entry\obj\Debug\Reverse Poland entry.csprojResolveAssemblyReference.cache
+D:\Артём\VISUAL STUDIA PROJECTS\Reverse Poland entry\Reverse Poland entry\obj\Debug\Reverse_Poland_entry.Form1.resources
+D:\Артём\VISUAL STUDIA PROJECTS\Reverse Poland entry\Reverse Poland entry\obj\Debug\Reverse_Poland_entry.Properties.Resources.resources
+D:\Артём\VISUAL STUDIA PROJECTS\Reverse Poland entry\Reverse Poland entry\obj\Debug\Reverse Poland entry.csproj.GenerateResource.Cache
+D:\Артём\VISUAL STUDIA PROJECTS\Reverse Poland entry\Reverse Poland entry\obj\Debug\Reverse Poland entry.csproj.CoreCompileInputs.cache
+D:\Артём\VISUAL STUDIA PROJECTS\Reverse Poland entry\Reverse Poland entry\bin\Debug\Reverse Poland entry.exe
+D:\Артём\VISUAL STUDIA PROJECTS\Reverse Poland entry\Reverse Poland entry\bin\Debug\Reverse Poland entry.pdb
+D:\Артём\VISUAL STUDIA PROJECTS\Reverse Poland entry\Reverse Poland entry\obj\Debug\Reverse Poland entry.exe
+D:\Артём\VISUAL STUDIA PROJECTS\Reverse Poland entry\Reverse Poland entry\obj\Debug\Reverse Poland entry.pdb
